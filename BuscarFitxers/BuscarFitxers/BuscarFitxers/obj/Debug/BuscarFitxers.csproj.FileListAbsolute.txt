@@ -1,0 +1,10 @@
+C:\Users\Gerard\Google Drive\DAM\Segon\M9 Threads\UF2\Practiques\BuscarFitxers\BuscarFitxers\BuscarFitxers\bin\Debug\BuscarFitxers.exe.config
+C:\Users\Gerard\Google Drive\DAM\Segon\M9 Threads\UF2\Practiques\BuscarFitxers\BuscarFitxers\BuscarFitxers\bin\Debug\BuscarFitxers.exe
+C:\Users\Gerard\Google Drive\DAM\Segon\M9 Threads\UF2\Practiques\BuscarFitxers\BuscarFitxers\BuscarFitxers\bin\Debug\BuscarFitxers.pdb
+C:\Users\Gerard\Google Drive\DAM\Segon\M9 Threads\UF2\Practiques\BuscarFitxers\BuscarFitxers\BuscarFitxers\obj\Debug\BuscarFitxers.csproj.AssemblyReference.cache
+C:\Users\Gerard\Google Drive\DAM\Segon\M9 Threads\UF2\Practiques\BuscarFitxers\BuscarFitxers\BuscarFitxers\obj\Debug\BuscarFitxers.FrmMain.resources
+C:\Users\Gerard\Google Drive\DAM\Segon\M9 Threads\UF2\Practiques\BuscarFitxers\BuscarFitxers\BuscarFitxers\obj\Debug\BuscarFitxers.Properties.Resources.resources
+C:\Users\Gerard\Google Drive\DAM\Segon\M9 Threads\UF2\Practiques\BuscarFitxers\BuscarFitxers\BuscarFitxers\obj\Debug\BuscarFitxers.csproj.GenerateResource.cache
+C:\Users\Gerard\Google Drive\DAM\Segon\M9 Threads\UF2\Practiques\BuscarFitxers\BuscarFitxers\BuscarFitxers\obj\Debug\BuscarFitxers.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Google Drive\DAM\Segon\M9 Threads\UF2\Practiques\BuscarFitxers\BuscarFitxers\BuscarFitxers\obj\Debug\BuscarFitxers.exe
+C:\Users\Gerard\Google Drive\DAM\Segon\M9 Threads\UF2\Practiques\BuscarFitxers\BuscarFitxers\BuscarFitxers\obj\Debug\BuscarFitxers.pdb
